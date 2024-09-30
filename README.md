@@ -1,11 +1,16 @@
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 <br> 31 αnos (14/09/1993) <br>
-Apaixonado por games , e jogos no estilo de fazenda (harvest moon , stardew valley)
+Apaixonado por games , 
+e jogos no estilo de fazenda 
+(harvest moon , stardew valley)
 
-Estou tentando criar meu proprio jogo utilizando o Godot
+Estou tentando criar meu 
+proprio jogo utilizando o Godot
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-⬜ Este GITHUD está destinado a ser utilizado como portfólio para reconhecimento e guardar recursos necessários tanto para a minha pessoa quanto aos que precisam. ⬜
+⬜ Este GITHUD está destinado a ser utilizado como portfólio para 
+reconhecimento e guardar recursos necessários tanto para a minha 
+pessoa quanto aos que precisam. ⬜
 
 ⬜ Sistemas Operacionais ⬜
 
@@ -25,5 +30,4 @@ Estou tentando criar meu proprio jogo utilizando o Godot
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 
 
 ⬜ Contato ⬜
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-tyr1493
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)tyr1493
